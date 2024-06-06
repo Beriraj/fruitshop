@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fruitshop/static/css/main.ff02f4b5.css",
+    "main.js": "/fruitshop/static/js/main.c16af093.js",
+    "static/js/453.b2482a81.chunk.js": "/fruitshop/static/js/453.b2482a81.chunk.js",
+    "static/media/img7.jpg": "/fruitshop/static/media/img7.8c05efffd86f65f09286.jpg",
+    "static/media/img6.jpg": "/fruitshop/static/media/img6.9ca0b1cd3dba9bb8d779.jpg",
+    "static/media/img2.jpg": "/fruitshop/static/media/img2.e00eb8918bba5427ad82.jpg",
+    "static/media/img3.jpg": "/fruitshop/static/media/img3.6e95412ffa427d618a4f.jpg",
+    "static/media/img1.jpg": "/fruitshop/static/media/img1.f35164faef303836e178.jpg",
+    "static/media/img4.jpg": "/fruitshop/static/media/img4.d053f3b8d3459f0aa9c9.jpg",
+    "static/media/img8.jpg": "/fruitshop/static/media/img8.0051e9ba2f8aaa6af752.jpg",
+    "static/media/img5.jpg": "/fruitshop/static/media/img5.baf6c19b667c4b9e7ea2.jpg",
+    "index.html": "/fruitshop/index.html",
+    "main.ff02f4b5.css.map": "/fruitshop/static/css/main.ff02f4b5.css.map",
+    "main.c16af093.js.map": "/fruitshop/static/js/main.c16af093.js.map",
+    "453.b2482a81.chunk.js.map": "/fruitshop/static/js/453.b2482a81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.c16af093.js"
+  ]
+}
